@@ -1,0 +1,27 @@
+  ul {
+    font-style: italic;
+  }
+
+  li {
+    font-style: normal;
+  }
+
+  h1 {
+    color: forestgreen;
+    border-bottom: 2px dotted black;
+  }
+
+  .floatRight {
+    float: right;
+  }
+
+  body {
+    max-width: 600px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-top: 1px;
+    border: 3px solid rgb(75, 75, 75);
+    box-shadow: 0 0 15px 5px rgba(44, 82, 100, .75);
+    border-radius: 20px;
+  }
